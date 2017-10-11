@@ -1,0 +1,195 @@
+Base path: D:/Program Files (x86)/Unity 4.6/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-8644
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=4681 outsize=535 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (107): implicit truncation of vector type
+  error: 1 plat 4 at (109): implicit truncation of vector type
+  error: 2 plat 4 at (126): undeclared identifier 'UnityStereoTransformScreenSpaceTex'
+  api=4 type=0 insize=4171 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1050 outsize=267 ok=1
+Cmd: preprocess
+  insize=6050 outsize=1861 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (53): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=4255 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=13909 outsize=1989 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (98): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=11660 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1084 outsize=353 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (36): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=997 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2758 outsize=2211 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (85): undeclared identifier 'unity_WorldToObject'
+  api=4 type=0 insize=6076 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=6440 outsize=774 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (77): implicit truncation of vector type
+  error: 2 plat 4 at (95): undeclared identifier 'UnityStereoTransformScreenSpaceTex'
+  api=4 type=0 insize=5473 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2970 outsize=803 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (28): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=2346 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=12171 outsize=2654 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (161): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=9414 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=14348 outsize=2450 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (61): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=11647 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2006 outsize=464 ok=1
+Cmd: preprocess
+  insize=2014 outsize=294 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (41): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=1972 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=27076 outsize=4364 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (82): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=21382 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4160 outsize=563 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (52): implicit truncation of vector type
+  error: 2 plat 4 at (59): undeclared identifier 'UnityStereoTransformScreenSpaceTex'
+  api=4 type=0 insize=3776 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2227 outsize=300 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (55): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=2163 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1231 outsize=354 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=1137 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1251 outsize=463 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (26): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=1014 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=776 outsize=266 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (20): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=788 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6104 outsize=895 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (39): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=5222 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6293 outsize=779 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=5523 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=620 outsize=363 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (24): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=545 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8905 outsize=1194 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (124): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=7438 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=33698 outsize=270 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (128): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=32917 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5459 outsize=1768 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (104): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=3869 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2379 outsize=1086 ok=1
+Cmd: preprocess
+  insize=7126 outsize=251 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (123): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=7003 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5648 outsize=445 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (49): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=5334 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5547 outsize=931 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (60): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=4654 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6154 outsize=1284 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (165): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=4337 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=770 outsize=305 ok=1
+Cmd: preprocess
+  insize=757 outsize=316 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=721 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4500 outsize=664 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (43): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=3926 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=915 outsize=293 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (22): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=891 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1528 outsize=291 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (27): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=1494 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2135 outsize=1002 ok=1
+Cmd: preprocess
+  insize=5384 outsize=739 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (55): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=4724 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1137 outsize=494 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (34): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=913 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1210 outsize=386 ok=1
+Cmd: preprocess
+  insize=553 outsize=259 ok=1
+Cmd: preprocess
+  insize=767 outsize=312 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (21): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=733 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5652 outsize=920 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'UnityStereoScreenSpaceUVAdjust'
+  api=4 type=0 insize=4801 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
