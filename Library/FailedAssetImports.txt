@@ -1,1 +1,1 @@
-Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat
+Assets/Downloaded assets/Desert Environment/Models/Props/Container/Textures/GreenContainer_Normal.png
