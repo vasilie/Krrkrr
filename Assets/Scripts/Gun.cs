@@ -1,4 +1,6 @@
 ﻿using UnityEngine;
+[RequireComponent(typeof(AudioSource))]
+
 
 public class Gun : MonoBehaviour {
 	public float damage = 10f;
@@ -10,9 +12,17 @@ public class Gun : MonoBehaviour {
 	[SerializeField]
 	private float force = 10f;
 
+	private AudioSource shootClip;
+
+	private Animator anim;
 
 	public ParticleSystem muzzleflash;
 	// Update is called once per frame
+
+	void Start(){
+		shootClip = gameObject.GetComponent<AudioSource>();
+	}
+
 	void Update () {
 		if (Input.GetButton("Fire1")){
 			Shoot();
@@ -22,7 +32,8 @@ public class Gun : MonoBehaviour {
 	void Shoot(){
 		if (Time.time > lastFired + fireRate) {
 
-			muzzleflash.Play();
+			muzzleflash.Play ();
+			shootClip.Play();
 			RaycastHit hit; 
 			if (Physics.Raycast (fpsCam.transform.position, fpsCam.transform.forward, out hit, range)) {
 				Debug.Log (hit.transform.name);
